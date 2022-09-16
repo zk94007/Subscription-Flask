@@ -22,7 +22,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.1
 kombu==4.6.8
 lazy-object-proxy==1.4.3
-Mako==1.1.2
+Mako==1.2.2
 MarkupSafe==1.1.1
 marshmallow==2.19.5
 mccabe==0.6.1
